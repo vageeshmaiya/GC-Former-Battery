@@ -41,7 +41,7 @@ On running the main code a `results` folder will be created where the prediction
 ## Acknowledgement
 We appreciate the following github repos a lot for their valuable code base or datasets:
 
-https://github.com/zhouhaoyi/Informer2020
+https://github.com/zyj-111/GCformer
 
 Diao, W., Saxena, S., Pecht, M. Accelerated Cycle Life Testing and Capacity Degradation Modeling of LiCoO2 -graphite Cells. J. Power Sources 2019, 435, 226830.
 
